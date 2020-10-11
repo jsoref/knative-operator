@@ -1,0 +1,5 @@
+base64data: .*$
+sha256:[0-9a-f]+
+checksum: "?[0-9a-f]+"?
+v1alpha
+v1
